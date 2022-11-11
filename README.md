@@ -1,7 +1,7 @@
 # Yahoo-Finance-for-Google-Sheets
 ## Google Apps Script for querying Yahoo! Finance API in Google Sheets
 
-Installation:\n
+Installation:  
 [1] Open Google Sheet
 [2] Go to [Extensions] and click [App Scripts]
 [3] Clean up opened "Code.gs" file 
