@@ -15,7 +15,7 @@ Now, YAHOOF() Function available in you Google Sheet File.
 **[Start]** -> start date of the requested data (should be String format: "01/01/2022") or should be fixed range (acceptable values: ["1d","5d","1mo","3mo","6mo","1y","2y","5y","10y","ytd","max"])<br />  	
 **[End]** -> end date of the requested data (should be String format: "01/01/2022")<br />   
 <br />
-◖◗ **EXAMPLES with default and non default argument values:**<br />	
+◖◗ **EXAMPLES of usage with default and non default argument values:**<br />	
 **= YAHOOF()**  -  [ Help Info ]	<br />
 **= YAHOOF("DBK.DE")** -  retrives data about Stock "DBK.DE" with default "1h" [ interval = "1h" ] and default last period range "1y" [ start = "1y"]  	<br />
 **= YAHOOF("DBK.DE", "1h")** -  retrives data about Stock "DBK.DE" with [ interval = "1h" ] and default period range [ start = "1y"] <br />	
