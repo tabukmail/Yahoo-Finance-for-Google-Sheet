@@ -7,15 +7,13 @@
 [3] Clean up opened "Code.gs" file   
 [4] Copy and Paste the code from here and click "Save Project"  
 Now, YAHOOF Function available in you Google Sheet File.  
-<br />   
-
+<br />
 ◖◗ **ARGUMENTS of the Function =YAHOOF():** <br />
 **[Stock]** -> Stock name (ticker) listed on Yahoo Finance (No default value)<br /> 	
 **[Interval]**->Time interval of requested data (acceptable values: ["1m","2m", "5m", "15m", "30m", "60m", "90m", "1h","1d", "5d", "1wk", "1mo", "3mo"])<br />  	
 **[Start]** -> start date of the requested data (should be String format: "01/01/2022") or should be fixed range (acceptable values: ["1d","5d","1mo","3mo","6mo","1y","2y","5y","10y","ytd","max"])<br />  	
 **[End]** -> end date of the requested data (should be String format: "01/01/2022")<br />   
-<br />    
-
+<br />
 ◖◗ **EXAMPLES with default and non default argument values:**<br />	
 **= YAHOOF()**  -  [ Help Info ]	<br />
 **= YAHOOF("DBK.DE")** -  retrives data about Stock "DBK.DE" with default "1h" [ interval = "1h" ] and default last period range "1y" [ start = "1y"]  	<br />
