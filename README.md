@@ -33,7 +33,7 @@ Now, YAHOOF Function available in you Google Sheet File.
 = YAHOOF("DBK.DE", "1h", "1mo", "10/01/2022") -  you will get the notification to correct start date (it should be the same format as the last argument "MM/DD/YYYY") 	<br />
 = YAHOOF("DBK.DE", "1h",  , "10/01/2022") -  retrieves data about Stock "DBK.DE" with [ interval = "1h" ] and one year backward default period range from [ end = "10/01/2022"] because argument [ start = null]	<br />
 = YAHOOF("DBK.DE",  ,  , "10/01/2022") -  retrieves data about Stock "DBK.DE" with [ interval = "1h" (default value)] and one year backward default period range from [ end = "10/01/2022"] because argument [ start = null]	<br />
-If you get date values in the date column instead of date format just change format of the column (go to Format --> Number --> Date)	<br />
+If you get date values in the date column instead of date format, just change format of the column (go to Format --> Number --> Date)	<br />
 <br />
 <br />
   
