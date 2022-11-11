@@ -40,7 +40,7 @@ If you get date values in the date column instead of date format, just change fo
 **◖⚆ᴥ⚆◗ ADDITIONAL INFO:**	<br />
 You are welcome for further contributions and ideas: 	<br />
 https://github.com/tabukmail	<br />
-https://twitter.com/tabukmail	<br />
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/tabukmail.svg?style=social&label=Follow%20%40tabukmail)](https://twitter.com/tabukmail)	<br />
 Wish you profitable investment !!!!      ⅽ[ː̠̈ː̠̈] ͌ 	<br />
 
 
