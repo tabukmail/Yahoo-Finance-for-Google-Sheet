@@ -1,7 +1,7 @@
 # Yahoo-Finance-for-Google-Sheets
 ## Google Apps Script for querying Yahoo! Finance API in Google Sheets
 
-◖◗ Installation:  
+◖◗ **Installation:**  
 [1] Open Google Sheet  
 [2] Go to [Extensions] and click [App Scripts]  
 [3] Clean up opened "Code.gs" file   
@@ -10,7 +10,7 @@ Now, YAHOOF Function available in you Google Sheet File.
 
   
 
-◖◗ ARGUMENTS of the Function =YAHOOF(): <br />
+◖◗ **ARGUMENTS of the Function =YAHOOF():** <br />
 [Stock] -> Stock name (ticker) listed on Yahoo Finance (No default value)<br /> 	
 [Interval] ->Time interval of requested data (acceptable values: ["1m","2m", "5m", "15m", "30m", "60m", "90m", "1h","1d", "5d", "1wk", "1mo", "3mo"])<br />  	
 [Start] -> start date of the requested data (should be String format: "01/01/2022") or should be fixed range (acceptable values: ["1d","5d","1mo","3mo","6mo","1y","2y","5y","10y","ytd","max"])<br />  	
@@ -20,7 +20,7 @@ Now, YAHOOF Function available in you Google Sheet File.
 <br />    
 
 
-◖◗ EXAMPLES with default and non defaoult argument values:<br />	
+◖◗ **EXAMPLES with default and non defaoult argument values:**<br />	
 = YAHOOF()  -  [ Help Info ]	<br />
 = YAHOOF("DBK.DE") -  retrives data about Stock "DBK.DE" with default "1h" [ interval = "1h" ] and default last period range "1y" [ start = "1y"]  	<br />
 = YAHOOF("DBK.DE", "1h") -  retrives data about Stock "DBK.DE" with [ interval = "1h" ] and default period range [ start = "1y"] <br />	
@@ -37,7 +37,7 @@ If you get date values in the date column instead of date format just change for
 <br />
 <br />
   
-◖⚆ᴥ⚆◗ ADDITIONAL INFO:	<br />
+**◖⚆ᴥ⚆◗ ADDITIONAL INFO:**	<br />
 You are welcome for further contributions and ideas: 	<br />
 https://github.com/tabukmail	<br />
 https://twitter.com/tabukmail	<br />
