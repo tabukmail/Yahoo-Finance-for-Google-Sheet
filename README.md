@@ -6,4 +6,4 @@ Installation:
 [2] Go to [Extensions] and click [App Scripts]  
 [3] Clean up opened "Code.gs" file   
 [4] Copy and Paste the code from here and click "Save Project"  
-YAHOOF Function available in you Google Sheet File now  
+Now, YAHOOF Function available in you Google Sheet File.
