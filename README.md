@@ -37,6 +37,6 @@ You are welcome for further contributions, ideas and :beetle: reports: 	<br />
 Wish you profitable investment !!!!   and hot :coffee:	<br />
 	<br />
 P.S. <br />
-Interests motivate me to add more API functionality to this script. :rocket:
+Your interest is the best motivation for me to add more API functionality to this script. :rocket:
 
 
