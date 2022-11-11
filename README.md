@@ -7,7 +7,7 @@
 [2] Go to [Extensions] and click [App Scripts]  
 [3] Clean up opened "Code.gs" file   
 [4] Copy and Paste the code from here and click "Save Project"  
-Now, YAHOOF Function available in you Google Sheet File.  
+Now, YAHOOF() Function available in you Google Sheet File.  
 <br />
 ◖◗ **ARGUMENTS of the Function =YAHOOF():** <br />
 **[Stock]** -> Stock name (ticker) listed on Yahoo Finance (No default value)<br /> 	
