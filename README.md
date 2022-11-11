@@ -20,7 +20,7 @@ Now, YAHOOF Function available in you Google Sheet File.
 <br />    
 
 
-◖◗ **EXAMPLES with default and non defaoult argument values:**<br />	
+◖◗ **EXAMPLES with default and non default argument values:**<br />	
 = YAHOOF()  -  [ Help Info ]	<br />
 = YAHOOF("DBK.DE") -  retrives data about Stock "DBK.DE" with default "1h" [ interval = "1h" ] and default last period range "1y" [ start = "1y"]  	<br />
 = YAHOOF("DBK.DE", "1h") -  retrives data about Stock "DBK.DE" with [ interval = "1h" ] and default period range [ start = "1y"] <br />	
