@@ -1,6 +1,6 @@
-# Yahoo-Finance-for-Google-Sheets
+# Yahoo-Finance-for-Google-Sheets - (Historical Data)
 ## Google Apps Script for querying Yahoo! Finance API in Google Sheets  
-#(Historical Data)
+
 
 ◖◗ **Installation:**  
 [1] Open Google Sheet  
