@@ -1,3 +1,6 @@
+
+
+
 /**
  * Yahoo Finance API impotr JSON, parse and set 
  * Example: =YAHOOF("DBK.DE" , "1h" , "1y")
